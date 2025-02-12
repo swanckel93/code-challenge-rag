@@ -1,0 +1,49 @@
+services:
+  pgvector:
+    image: ankane/pgvector
+    container_name: pgvector
+    environment:
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: postgres
+      POSTGRES_DB: pdf_rag_vectors
+      POSTGRES_HOST_AUTH_METHOD: trust
+    ports:
+      - "5432:5432"
+    networks:
+      - app_network
+    volumes:
+      - pgvector_data:/var/lib/postgresql/data
+      - ./init.sql:/docker-entrypoint-initdb.d/init.sql
+
+  langserve:
+    build: .
+    container_name: langserve
+    env_file:
+      - .env  # This automatically loads environment variables
+    # environment:
+    #   OPENAI_API_KEY: ${OPENAI_API_KEY}  # Load from .env file or environment
+    #   POSTGRES_URL: "postgresql+psycopg://postgres@pgvector:5432/pdf_rag_vectors"
+    ports:
+      - "8080:8080"
+    depends_on:
+      - pgvector
+    networks:
+      - app_network
+
+  frontend:
+    build: ./frontend  # Path to your frontend project
+    container_name: frontend
+    ports:
+      - "5173:5173"  # Vite's default dev server port
+    environment:
+      - VITE_API_URL=http://langserve:8080  # Set API base URL for frontend
+    networks:
+      - app_network
+    depends_on:
+      - langserve   
+volumes:
+  pgvector_data:
+
+networks:
+  app_network:
+    driver: bridge
