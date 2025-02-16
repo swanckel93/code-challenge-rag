@@ -27,12 +27,16 @@ asyncpg = "^0.30.0"
 llama-index-embeddings-openai = "^0.3.1"
 llama-index-readers-file = "^0.4.4"
 langchain = "^0.3.18"
-langchain-ollama = "^0.2.3"
 sentence-transformers = "^3.4.1"
-
+ragas = "^0.2.13"
+dynaconf = "^3.2.7"
+pytest = "^8.3.4"
+langchain-cli = ">=0.0.15"
+langchain-huggingface = "^0.1.2"
 
 [tool.poetry.group.dev.dependencies]
-langchain-cli = ">=0.0.15"
+sacrebleu = "^2.5.1"
+jupyter = "^1.1.1"
 
 [build-system]
 requires = ["poetry-core"]

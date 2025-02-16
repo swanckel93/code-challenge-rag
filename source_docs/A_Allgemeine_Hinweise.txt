@@ -1,0 +1,697 @@
+ Individuelle Maßnahmen zur Aktivierung und beruflichen Eingliederung nach § 16 I SGB II i. V. m. § 45 I S. 1 SGB III
+
+
+
+
+                            Bundesagentur für Arbeit
+                 Regionales Einkaufszentrum Nordrhein-Westfalen
+
+
+
+
+                                          Vergabeunterlagen
+                                           Offenes Verfahren
+                                    Vergabe eines Rahmenvertrages
+                                         über die Durchführung
+                                      der Maßnahmekombination
+       „Individuelle Maßnahmen zur Aktivierung und beruflichen Eingliederung“
+§ 16 Abs. I Sozialgesetzbuch Zweites Buch (SGB II) i.V.m. § 45 Abs. 1 S. 1 Sozialgesetz-
+                              buch Drittes Buch (SGB III)
+
+                                Vergabenummer: 301-23-45ind-30052
+
+
+
+
+                                            Hinweis:
+Diese Unterlagen sind urheberrechtlich geschützt und dürfen deshalb weder vervielfältigt, noch ohne
+         ausdrückliche schriftliche Zustimmung des Urhebers anderweitig genutzt werden.
+
+
+
+
+Stand: 01.01.2023                           301-23-45ind-30052                                  Seite 1 von 13
+  Individuelle Maßnahmen zur Aktivierung und beruflichen Eingliederung nach § 16 I SGB II i. V. m. § 45 I S. 1 SGB III
+
+
+Die Vergabeunterlagen zu diesem Vergabeverfahren umfassen folgende Dateien in den angegebenen For-
+maten:
+
+
+1. A_Allgemeine_Hinweise.pdf
+    A.1   Kontaktstelle, Angebotsabgabe, Fristen
+    A.2   Einzelbieter, Bietergemeinschaften und Unterauftragnehmer
+    A.3   Darlegung der Bietereignung und des Nichtvorliegens von Ausschlussgründen
+    A.4   Ethikklausel
+    A.5   Aufteilung der Leistung
+    A.6   Aufbau, Form und Inhalt des Angebotes
+    A.7   Bieterfragen, Fragen- und Antwortenkatalog sowie sonstige Kommunikation
+    A.8   Zuschlagserteilung/Vertragsabschluss
+    A.9   Schutzrechte
+    A.10 Hinweise zur Verarbeitung personenbezogener Daten im Vergabeverfahren
+    A.11 Kenntlichmachung der Fabrikations-, Betriebs-, Geschäftsgeheimnisse in den Angebotsunterlagen
+    A.12 Nachprüfung
+2. A_Wertungshinweise.pdf
+3. A_Bewertungsmatrix.pdf
+4. B_Leistungsbeschreibung.pdf
+   B.1 Allgemeine und Produktbezogene Rahmenbedingungen
+   B.2 Inhalte der Maßnahme und deren Qualitätsstandards
+5. C_Vertragsbedingungen.pdf
+6. D.1.pdf (Abgabe eines Angebotes)
+7. D.2.pdf (Unternehmensangaben und Eigenerklärungen)
+8. D.2.1.pdf (Erklärung zur Einhaltung zwingender Arbeitsbedingungen und Registerabfrage)
+9. D.2.2.pdf (Erklärung zur Ethikklausel)
+10. D.3.pdf (Erklärung zu Referenzleistungen)
+11. D.5.pdf (Erklärung bzgl. Art. 5k der Verordnung (EU) Nr. 2022/576)
+12. E1.pdf (Zusammenfassung aller Losblätter als Ansicht- und Druckversion)
+13. Leistungsverzeichnis.aidf (ausfüllbare Losblätter)
+
+
+
+
+Stand: 01.01.2023                            301-23-45ind-30052                                  Seite 2 von 13
+    Individuelle Maßnahmen zur Aktivierung und beruflichen Eingliederung nach § 16 I SGB II i. V. m. § 45 I S. 1 SGB III
+
+Vorbemerkung
+Die in den Vergabeunterlagen im Folgenden aufgezählten Begriffe wie Auftragnehmer, Auftraggeber, Bieter,
+Vertreter, Bedarfsträger, Kostenträger, Arbeitgeber oder Entleiher können als feststehende Rechtsbegriffe nur
+in männlicher Form angewandt werden. Sinngemäß umfassen die Begriffe jedoch alle Geschlechter.
+Sofern nachstehend in den Vergabeunterlagen nichts anderes angegeben ist,
+•     ist mit Vergabestelle das zuständige Regionale Einkaufszentrum als Organisationseinheit der Bunde-
+      sagentur für Arbeit (BA) gemeint.
+•     ist mit Angebotsstelle die e-Vergabe-Plattform des Bundes (e-Vergabe-Plattform) gemeint.
+•     kommen als Bedarfsträger sowohl Agenturen für Arbeit (AA) als auch Jobcenter (JC) – gemeinsame
+      Einrichtungen (gE) und zugelassene kommunale Träger (zkT) – in Betracht. Der bzw. die Bedarfsträger
+      ergibt bzw. ergeben sich aus dem jeweiligen Leistungsverzeichnis/Losblatt.
+•     sind mit Auftraggeber im Sinne der Vertragsausführung (insbesondere Leistungsbeschreibung und Ver-
+      tragsbedingungen) sowohl der Bedarfsträger als auch das zuständige Regionale Einkaufszentrum ge-
+      meint. Das Regionale Einkaufszentrum unterstützt den Bedarfsträger und wird in Vertretung des Bedarfs-
+      trägers tätig; für die JC gemäß § 44b Abs. 5 SGB II.
+•     ist Auftraggeber im rechtlichen Sinne (Rechte und Pflichten) der Bedarfsträger, so dass insoweit aus-
+      schließlich der Bedarfsträger aus dem Vertrag berechtigt und verpflichtet ist. Ist z.B. lt. Leistungsverzeich-
+      nis/Losblatt der Bedarfsträger ein JC, ist ausschließlich das JC berechtigt und verpflichtet.
+•     ist mit Auftragnehmer derjenige Bieter gemeint, der den Zuschlag auf sein Angebot im Rahmen des
+      jeweiligen Vergabeverfahrens und des jeweiligen Loses erhalten hat.
+•     sind mit Bieter sowohl der Einzelbieter als auch die Bietergemeinschaften gemeint. Zur besseren Lesbar-
+      keit wurde auf die zusätzliche Bezeichnung „Bietergemeinschaft“ nach Möglichkeit verzichtet.
+      Bieter ist das Unternehmen, das sich auf der e-Vergabe-Plattform registriert hat und das Angebot auf der
+      e-Vergabe-Plattform abgibt. Das Unternehmen, das bevollmächtigtes Mitglied einer Bietergemeinschaft
+      ist und sich auf der e-Vergabe-Plattform registriert hat, gibt das Angebot für die Bietergemeinschaft auf
+      der e-Vergabe-Plattform ab. Falls das Angebot durch ein anderes, im Auftragsfall nicht vertragsbeteiligtes
+      Unternehmen, das sich als Nutzerin/Nutzer auf der e-Vergabe-Plattform registriert hat, über ihr/sein eige-
+      nes Benutzerkonto in Vertretung des Bieters oder der Bietergemeinschaft abgegeben wird, ist A.2 in der
+      Datei A_Allgemeine_Hinweise.pdf zu beachten.
+•     ist mit Maßnahme die Durchführung einer Maßnahme entsprechend der laufenden Nummer im Leistungs-
+      verzeichnis/Losblatt gemeint.
+
+
+
+
+Stand: 01.01.2023                              301-23-45ind-30052                                  Seite 3 von 13
+    Individuelle Maßnahmen zur Aktivierung und beruflichen Eingliederung nach § 16 I SGB II i. V. m. § 45 I S. 1 SGB III
+
+Teil A Allgemeine Hinweise
+Es handelt sich um ein elektronisches Vergabeverfahren. Gemäß § 11 Abs. 3 der Vergabeverordnung (VgV)
+muss der öffentliche Auftraggeber den Unternehmen alle notwendigen Informationen zur Verfügung stellen
+über die in einem solchen Vergabeverfahren verwendeten elektronischen Mittel, die technischen Parameter
+zur Einreichung von Teilnahmeanträgen, Angeboten und Interessensbestätigungen mithilfe elektronischer Mit-
+tel und verwendete Verschlüsselungs- und Zeiterfassungsverfahren. Diese Informationen stehen auf der e-
+Vergabe-Plattform des Bundes unter dem Link auf www.evergabe-online.info/vgv11 bereit.
+Die Vergabeunterlagen werden nur elektronisch über die e-Vergabe-Plattform des Bundes www.evergabe-
+online.de zur Verfügung gestellt. Die Angebotsabgabe hat ausschließlich über diese Plattform mit der dort
+bereitgestellten Softwarekomponente „AnA-Web“ zu erfolgen. Der „AnA-Web“ verschlüsselt das Angebot und
+ermöglicht die elektronische Übersendung an die Angebotsstelle. Erst nach Ablauf der Angebotsfrist wird das
+Angebot von der Angebotsstelle an die Vergabestelle übergeben.
+Bieter ist das Unternehmen, das sich als Nutzerin/Nutzer auf der e-Vergabe-Plattform registriert hat und das
+Angebot auf der e-Vergabe-Plattform abgibt. Bei Bietergemeinschaften muss das Unternehmen, das bevoll-
+mächtigtes Mitglied der Bietergemeinschaft ist, sich als Nutzerin/Nutzer auf der e-Vergabe-Plattform registriert
+haben und das Angebot auf der e-Vergabe-Plattform abgeben. Falls das Angebot durch ein anderes, im Auf-
+tragsfall nicht vertragsbeteiligtes Unternehmen, das sich als Nutzerin/Nutzer auf der e-Vergabe-Plattform re-
+gistriert hat, über ihr/sein eigenes Benutzerkonto in Vertretung des Bieters oder der Bietergemeinschaft abge-
+geben wird, ist A.2 zu beachten.
+
+
+A.1 Kontaktstelle, Angebotsabgabe, Fristen
+Vergabestelle und Kontaktstelle ist das Regionale Einkaufszentrum NRW als Organisationseinheit der BA.
+Die Angebote gehen an eine von der Vergabestelle unabhängige Angebotsstelle. Dies ist die e-Vergabe-
+Plattform. Gleiches gilt für etwaige Änderungen, Berichtigungen und Rücknahmen von Angeboten. Die Ange-
+bote sind ausschließlich elektronisch über die e-Vergabe-Plattform mittels der dort bereitgestellten Software-
+komponente „AnA-Web“ zu übermitteln. Angebote, die auf anderem Wege als über die e-Vergabe-Plattform
+wie z.B. per Post, verkehrsüblicher E-Mail usw. zugestellt werden, werden ausgeschlossen. Die jeweils gülti-
+gen Nutzungsbedingungen der e-Vergabe-Plattform des Bundes (insbesondere die Nutzungsvoraussetzun-
+gen für Bieter) sind zu beachten.
+Angebote müssen bis zum Ablauf der Angebotsfrist der vorgenannten Angebotsstelle vollständig übermittelt
+sein. Mit jedem Versenden mittels des „AnA-Web“ wird ein neues Angebot abgegeben. Nach dem Eingang
+des Angebotes wird es mit einem elektronischen Zeitstempel versehen. Für die Rechtzeitigkeit des Eingangs
+ist dieser Zeitstempel maßgebend. Nicht rechtzeitig bei der Angebotsstelle eingegangene Angebote werden
+ausgeschlossen.
+Angebote sind in der Datei D.1 nicht mehr mit einer elektronischen Signatur zu versehen. Verlangt ist die
+elektronische Übermittlung in Textform nach § 126b des Bürgerlichen Gesetzbuches. Danach muss es sich
+um eine lesbare Erklärung handeln, in der die Person des Erklärenden genannt ist und die auf einem dauer-
+haften Datenträger gespeichert werden kann. Durch die Übermittlung des Angebotes über den „AnA-Web“
+werden diese Anforderungen erfüllt.
+Für die Bearbeitung der Vergabeunterlagen und die Erstellung des Angebotes wird keine Entschädigung ge-
+währt.
+Mit Angebotsabgabe ist der Bieter an sein Angebot gebunden, sofern er es nicht bis zum Ablauf der Ange-
+botsfrist zurücknimmt.
+Die Rücknahme von Angeboten ist auf zwei Wegen möglich:
+•     Zum einen kann die Rücknahme elektronisch über die e-Vergabe-Plattform mittels des „AnA-Web“ durch
+      die Übermittlung einer Text-Datei an die Vergabestelle erfolgen. Dabei ist die Text-Datei in den „AnA-Web“
+      zu importieren und von dort über die Seite „Ausschreibung bearbeiten“ mit der Aktion „Vergabestelle kon-
+      taktieren“ zu versenden. Als Dateiformat sind elektronisch allgemein lesbare Formate zu verwenden (z.B.
+      *.txt, *.docx, *.pdf, *.tif etc.). In der Textdatei ist zwingend das Los zu benennen, für welches die Rück-
+      nahme des Angebotes erfolgt.
+•     Zum anderen kann die Rücknahme mittels des „AnA-Web“ in der dortigen Ansicht „Meine Ausschreibun-
+      gen – Ausschreibungsübersicht“ mit dem Workflow „Angebot zurückziehen“ erfolgen. Zu beachten ist,
+      dass – sofern mit der Abgabe des Angebotes mehrere Lose in einem Vergabeverfahren beboten worden
+      sind – die Rücknahme in diesem Fall für alle bebotenen Lose erfolgt.
+Maßgebend für die Rechtzeitigkeit der Rücknahme ist der elektronische Zeitstempel.
+
+
+Stand: 01.01.2023                              301-23-45ind-30052                                  Seite 4 von 13
+  Individuelle Maßnahmen zur Aktivierung und beruflichen Eingliederung nach § 16 I SGB II i. V. m. § 45 I S. 1 SGB III
+
+Änderungen, Ergänzungen oder Berichtigungen des Angebots sind bis zum Ablauf der Angebotsfrist nur
+durch Abgabe eines neuen, zeitlich später eingehenden Angebotes zulässig. Maßgebend für die zeitliche Rei-
+henfolge des Eingangs ist der elektronische Zeitstempel. Mit dem neuen Angebot gilt das vorhergehende
+Angebot zu derselben Vergabe- und Losnummer als zurückgenommen. Auch für das neue Angebot gelten
+alle Bestimmungen dieser Vergabeunterlagen zur Abgabe von Angeboten (vgl. A.6 Aufbau, Form und Inhalt
+des Angebotes).
+
+
+Ende Angebotsfrist am          05.04.2023, 10:00 Uhr
+Ende Bindefrist am             16.06.2023
+
+
+A.2 Einzelbieter, Bietergemeinschaften und Unterauftragnehmer
+Die Angebotsabgabe ist durch Einzelbieter und Bietergemeinschaften zulässig.
+Bietergemeinschaften haben in der Datei D.2 eines ihrer Mitglieder als bevollmächtigten Vertreter zur Ange-
+botsabgabe und Vertragsdurchführung zu benennen (Eingabehinweise siehe A.6). Angebote von Bieterge-
+meinschaften werden nur berücksichtigt, wenn sie durch das bevollmächtigte Mitglied der Bieterge-
+meinschaft abgegeben wurden.
+Falls ein Vertreter (z.B. Mitarbeiterin/Mitarbeiter der rechtlich eigenständigen Muttergesellschaft im Unterneh-
+mensverbund, die selbst weder Bieter noch Mitglied der Bietergemeinschaft ist) das Angebot für den Bieter
+oder anstelle des bevollmächtigten Mitglieds der Bietergemeinschaft für die Bietergemeinschaft abgeben will,
+benötigt er eine entsprechende Vollmacht. Diese Vollmacht ist bei Angebotsabgabe als Anlage zur Datei D.1
+einzureichen. Aus der Vollmacht müssen Name, Unternehmenszugehörigkeit, Anschrift, Telefon-Nummer,
+ggf. Fax-Nummer und E-Mail-Adresse des Vertreters hervorgehen. Die Vollmacht muss ferner den Umfang
+der Vertretung eindeutig festlegen (z.B. Angebotsabgabe, Verfahrensschritte bis zur Zuschlagserteilung, Er-
+ledigung von Rügen und Nachprüfungsanträgen). Die Kommunikation der Vergabestelle mittels „AnA-Web“
+im Vergabeverfahren erfolgt dann über das Benutzerkonto des Vertreters, mit dem er das Angebot auf der e-
+Vergabe-Plattform hochgeladen hat. Bieter/anbietende Bietergemeinschaft ist und bleibt im gesamten Verga-
+beverfahren das/die vollmachtgebende/n Unternehmen, das/die (später) den Auftrag ausführen will/wollen.
+Alle in den Vordruckdateien verlangten oder gesondert angeforderten Versicherungen, Verpflichtungen und
+Erklärungen müssen also im Hinblick auf das/die anbietende/n Unternehmen – und nicht im Hinblick auf den
+Vertreter – abgegeben bzw. vorgelegt werden. Vertragspartner wird im Auftragsfall das/die vollmachtge-
+bende/n Unternehmen (und nicht der Vertreter).
+Es gibt keine Vorgaben über die Rechtsform der Bietergemeinschaft.
+Die Bildung bzw. Änderung (z.B. durch Erweiterung, Austausch oder Wegfall von Mitgliedern) einer Bieterge-
+meinschaft nach Ablauf der Angebotsfrist ist nicht zulässig, außer die Ersetzung ist gemäß § 47 Abs. 2 VgV
+gestattet.
+Es ist zulässig, wenn sich ein Unternehmen für unterschiedliche Lose an verschiedenen Bietergemeinschaften
+beteiligt.
+Es ist unzulässig, innerhalb eines Loses als Mitglied einer Bietergemeinschaft und gleichzeitig als Einzelbieter
+anzubieten, wenn mindestens einem dieser Angebote eine unzulässige, wettbewerbsbeschränkende Abrede
+vorausgeht. Nach § 124 Abs. 1 Nr. 4 GWB sind hinreichende Anhaltspunkte des Auftraggebers für das Vor-
+liegen entsprechender Vereinbarungen oder Verhaltensweisen ausreichend. Die Vergabestelle wird dann den
+Nachweis verlangen, dass der Geheimwettbewerb nicht durch eine Mehrfachbeteiligung unzulässig beein-
+flusst wird. Können die betroffenen Unternehmen nicht nachweisen, dass der Geheimwettbewerb gewahrt
+worden ist, führt dies zum Ausschluss aus dem Vergabeverfahren. Gleiches gilt für den Fall, dass sich ein
+Bieter an verschiedenen Bietergemeinschaften zu einem Los beteiligt.
+Damit eine Bietergemeinschaft wie ein bevorzugter Bieter gemäß §§ 224, 241 Abs. 3 SGB IX behandelt wird
+(siehe A_Wertungshinweise), müssen die Mitglieder der Bietergemeinschaft Inklusionsbetriebe nach § 215
+SGB IX sein. Unterauftragnehmer müssen neben dem Bieter bzw. den Mitgliedern der Bietergemeinschaft für
+deren Bevorzugung ebenfalls die Eigenschaft als bevorzugte Einrichtung aufweisen.
+Darüber hinaus ist die Einschaltung von Unterauftragnehmern zulässig.
+Nachträgliche Änderungen der in den o. g. Dateien abgegebenen Erklärungen sind bis zur Zuschlagserteilung
+nicht mehr zulässig.
+
+
+
+
+Stand: 01.01.2023                            301-23-45ind-30052                                  Seite 5 von 13
+  Individuelle Maßnahmen zur Aktivierung und beruflichen Eingliederung nach § 16 I SGB II i. V. m. § 45 I S. 1 SGB III
+
+A.3 Darlegung der Bietereignung und des Nichtvorliegens von Ausschlussgründen
+Für einen Zuschlag kommen nur fachkundige und leistungsfähige (geeignete) Bieter in Frage, die nicht
+nach den §§ 123 oder 124 GWB ausgeschlossen worden sind.
+Zur Beurteilung der Eignung und zur Prüfung des Nichtvorliegens von Ausschlussgründen sind vom Bieter in
+den Dateien D.2, D.2.1, D.2.2, D.3 und D.5 Angaben und Erklärungen zu machen und mit dem Angebot ab-
+zugeben.
+Eignungskriterien
+Als Beleg der Berechtigung zur Auftragsausführung wird in der Datei D.2 die Zusicherung verlangt, dass die
+gemäß §§ 176 Abs. 1 und 178 SGB III erforderliche Trägerzulassung vorhanden ist. Bei Bietergemeinschaf-
+ten muss jedes Mitglied über die Trägerzulassung verfügen.
+Als Beleg der beruflichen Leistungsfähigkeit sind in der Datei D.3 geeignete Referenzen über früher aus-
+geführte Aufträge anzugeben. Der Nachweis ist erbracht, wenn die zu vergebende Leistung oder eine ver-
+gleichbare Leistung innerhalb der letzten drei Jahre ausgeführt wurde.
+Die Angabe personenbezogener Daten in der Datei D.3 wird zur Prüfung der beruflichen Leistungsfähigkeit
+benötigt. Diese Angabe erfolgt auf freiwilliger Basis. Sofern jedoch die berufliche Leistungsfähigkeit in der
+Datei D.3 auf Grund der fehlenden Angabe von Kontaktpersonen für Referenzen nicht geprüft werden kann,
+können diese Referenzen nicht berücksichtigt werden.
+Vergleichbare Leistungen sind insbesondere:
+    • Maßnahmen zur Förderung der beruflichen Weiterbildung (FbW),
+    • berufsvorbereitende Bildungsmaßnahmen (BvB),
+    • Ausbildung in außerbetrieblichen Einrichtungen (BaE) nach dem SGB III oder
+    • Maßnahmekombinationen, die Elemente nach § 45 Abs.1 S.1 SGB III enthalten.
+Zu den vergleichbaren Leistungen zählen auch Maßnahmen bzw. beauftragte Aktivitäten, die überwiegend
+auf die Eingliederung von Arbeitslosen/erwerbsfähigen Leistungsberechtigten in den ersten Arbeitsmarkt zie-
+len und deren Erfolg honoriert wird.
+
+Der Bieter/das bevollmächtigte Mitglied der Bietergemeinschaft hat in der Datei D.2 zu erklären, ob eine
+Vergabe von Unteraufträgen vorgesehen ist. Sofern der Bieter/die Bietergemeinschaft bei der Ausführung
+von Leistungsteilen Unterauftragnehmer einsetzen will, sind in der Datei D.2 diese Unterauftragnehmer ab-
+schließend zu benennen sowie Art und Umfang der von ihnen jeweils auszuführenden Leistungsteile anzuge-
+ben.
+Bei der späteren Wertung der Angebote findet eine Berücksichtigung der bereits festgestellten Eignung nicht
+mehr statt.
+Eignungsleihe
+Bei Bietergemeinschaften genügt hinsichtlich der Leistungsfähigkeit, dass diese mindestens bei einem Mit-
+glied der Bietergemeinschaft vorliegt. Es kommt auf die der Bietergemeinschaft insgesamt zur Verfügung ste-
+hende Kapazität an.
+Der Bieter/Die Bietergemeinschaft, der/die nicht selbst über die erforderliche Leistungsfähigkeit nach den fest-
+gelegten Eignungskriterien verfügt, kann hinsichtlich der ihm/ihr fehlenden eigenen Leistungsfähigkeit auf die
+Fähigkeiten/Ressourcen von anderen Unternehmen (Unterauftragnehmern) zurückgreifen, um die entspre-
+chenden Eignungskriterien zu erfüllen. Ist eine Vergabe von Unteraufträgen/Eignungsleihe beabsichtigt, sind
+die Anforderungen im Abschnitt V der Datei D.2 zu beachten. Ein Bieter/eine Bietergemeinschaft kann im
+Hinblick auf Nachweise für die einschlägige berufliche Erfahrung die Referenzen anderer Unternehmen nur
+dann in Anspruch nehmen, wenn diese die Leistung erbringen, für die diese Erfahrungen benötigt werden.
+Die fehlende Eignung einer Bietergemeinschaft führt ebenso wie die fehlende Eignung eines Bieters zum
+Ausschluss des Angebotes. Mitglieder eine Bietergemeinschaft und andere Unternehmen (Unterauftragneh-
+mer), die im Rahmen einer Eignungsleihe das entsprechende Eignungskriterium nicht erfüllen, sind zu erset-
+zen. Mitglieder einer Bietergemeinschaft und andere Unternehmen (Unterauftragnehmer), die zwecks Eig-
+nungsleihe benannt wurden und für die zwingende Ausschlussgründe nach § 123 GWB vorliegen, sind eben-
+falls zu ersetzen. Die Vergabestelle kann vom Bieter/von der Bietergemeinschaft auch beim Vorliegen fakul-
+tativer Ausschlussgründe nach § 124 GWB verlangen, dass das betreffende Unternehmen innerhalb der von
+der Vergabestelle gesetzten angemessenen Frist zwecks Eignungsleihe ersetzt wird.
+
+
+
+
+Stand: 01.01.2023                            301-23-45ind-30052                                  Seite 6 von 13
+    Individuelle Maßnahmen zur Aktivierung und beruflichen Eingliederung nach § 16 I SGB II i. V. m. § 45 I S. 1 SGB III
+
+Nichtvorliegen von Ausschlussgründen
+Als Beleg für das Nichtvorliegen von Ausschlussgründen nach den §§ 123 und 124 GWB ist in der Datei D.2
+die Abgabe der Erklärungen gemäß II.1 bis II.8 des Abschnitts II 1 erforderlich. Nur wenn eine oder mehrere
+der Erklärungen in II.1 bis II.6 des Abschnitts II nicht wie gefordert abgeben werden können, ist dies im Ab-
+schnitt III für den jeweils einschlägigen Ausschlussgrund anzugeben und näher zu erläutern. Dort sind auch
+etwaige Maßnahmen zur Selbstreinigung des Unternehmens nach § 125 GWB darzulegen.
+Die Vergabestelle kann einen Bieter/eine Bietergemeinschaft von der Teilnahme am Vergabeverfahren aus-
+schließen, wenn der Bieter/ein Mitglied der Bietergemeinschaft eine wesentliche Anforderung bei der Ausfüh-
+rung eines früheren öffentlichen Auftrags erheblich oder fortdauernd mangelhaft erfüllt hat und dies zu einer
+vorzeitigen Beendigung, zu Schadensersatz oder zu einer vergleichbaren Rechtsfolge geführt hat (§ 124 Abs.
+1 Nr. 7 GWB). Das betroffene Unternehmen wird bei Vorliegen eines solchen Grundes vor der Entscheidung
+über seinen Ausschluss angehört. Unter Angabe der maßgeblichen Pflichtverletzungen aus bestehenden oder
+früheren Vertragsverhältnissen im bebotenen Dienststellenbezirk erhält es die Gelegenheit innerhalb der ge-
+setzten Antwortfrist schriftlich darzulegen, welche Maßnahmen zur Selbstreinigung nach § 125 GWB zwi-
+schenzeitlich getroffen wurden, um weitere Pflichtverletzungen zu vermeiden.
+Die Vergabestelle schließt einen Bieter/eine Bietergemeinschaft, bei dem ein Ausschlussgrund nach § 123
+oder § 124 GWB vorliegt, nicht von der Teilnahme an dem Vergabeverfahren aus, wenn der Bieter/das Mitglied
+der Bietergemeinschaft ausreichende Maßnahmen zur Selbstreinigung seines Unternehmens gemäß § 125
+GWB nachgewiesen hat. Die Vergabestelle bewertet die von dem Unternehmen ergriffenen Selbstreinigungs-
+maßnahmen und berücksichtigt dabei die Schwere und die besonderen Umstände der Straftat oder des Fehl-
+verhaltens. Erachtet die Vergabestelle die Selbstreinigungsmaßnahmen als unzureichend, so begründet sie
+diese Entscheidung gegenüber dem betroffenen Unternehmen. Bei Nichtberücksichtigung des Angebotes ei-
+ner Bietergemeinschaft wegen des Ausschlusses eines ihrer einfachen Mitglieder, wird das bevollmächtigte
+Mitglied der Bietergemeinschaft zeitgleich in Textform darüber informiert.
+Diese Voraussetzungen (Nichtvorliegen von Ausschlussgründen oder Nachweis ausreichender Selbstreini-
+gungsmaßnahmen) müssen vom Bieter/von jedem Mitglied der Bietergemeinschaft erfüllt werden, andernfalls
+wird das betreffende Angebot ausgeschlossen.
+Ist eine Vergabe von Unteraufträgen/Eignungsleihe beabsichtigt, sind die Anforderungen im Abschnitt V der
+Datei D.2 zu beachten.
+Das Nichtvorliegen eines Sachverhaltes nach Art. 5k Abs. 1 Verordnung (EU) 2022/576 ist durch die Abgabe
+der Datei D.5 zu erklären. Der Rat der Europäischen Union hat ein fünftes Sanktionspaket im Zusammenhang
+mit dem Angriffskrieg Russlands auf die Ukraine beschlossen, welches am 9. April 2022 in Kraft getreten ist.
+Gemäß der Verordnung (EU) 2022/576 des Rates vom 8. April 2022 zur Änderung der Verordnung (EU) Nr.
+833/2014 über restriktive Maßnahmen angesichts der Handlungen Russlands, die die Lage in der Ukraine
+destabilisieren, hat dies auch unmittelbare Auswirkungen auf die Vergabe öffentlicher Aufträge ab Erreichen
+der EU-Schwellenwerte. Wird die Eigenerklärung nicht abgegeben, besteht ein zwingender Grund für den
+Ausschluss vom Vergabeverfahren.
+
+
+A.4 Ethikklausel
+Um dem Wettbewerbsgebot Rechnung zu tragen, schließt die BA keine Verträge mit Anbietern von Leistungen
+der aktiven Arbeitsförderung, die innerhalb eines Zeitraums von 18 Monaten vor der Veröffentlichung der
+Vergabemaßnahme für Leistungen der aktiven Arbeitsförderung für die BA als Beratungsfirma tätig waren
+oder von denen ein Mitglied oder eine Mitarbeiterin/ein Mitarbeiter innerhalb dieses Zeitraums als selbständige
+Beraterin/selbständiger Berater oder Mitglied oder Mitarbeiterin/Mitarbeiter einer Beratungsfirma für die BA
+tätig war. Dies gilt jedoch nur dann, wenn die angebotene Leistung demselben Bereich zuzuordnen ist, der
+auch Objekt der Beratung war. Ein Vertrag mit Anbietern von Leistungen der aktiven Arbeitsförderung ist je-
+doch in jedem Fall ausgeschlossen, sofern die genannten Kriterien innerhalb eines Zeitraums von 6 Monaten
+vor der Veröffentlichung der Vergabemaßnahme vorgelegen haben, unabhängig davon, ob die angebotene
+Leistung demselben Bereich zuzuordnen ist, der auch Objekt der Beratung war oder nicht.
+Eine entsprechende Erklärung (Datei D.2.2) ist vom Bieter/von jedem Mitglied der Bietergemeinschaft dem
+Angebot beizufügen.
+
+
+
+1     Zusätzlich zu den Eigenerklärungen in II.3.1 und II.3.2 der Datei D.2 holt die Vergabestelle für das Unternehmen, das den Zuschlag
+      erhalten soll, vor der Zuschlagserteilung eine Auskunft aus dem Gewerbezentralregister nach § 150a der Gewerbeordnung (GewO)
+      und/oder aus dem Wettbewerbsregister nach § 6 des Wettbewerbsregistergesetzes (WRegG) ein. Dafür sind die Angaben zur Re-
+      gisterabfrage in der Datei D.2.1 erforderlich.
+      In II.7 wird auf die abzugebende Ethikerklärung in der Datei D.2.2 verwiesen, die ebenfalls mit dem Angebot einzureichen ist.
+
+Stand: 01.01.2023                                   301-23-45ind-30052                                         Seite 7 von 13
+    Individuelle Maßnahmen zur Aktivierung und beruflichen Eingliederung nach § 16 I SGB II i. V. m. § 45 I S. 1 SGB III
+
+A.5 Aufteilung der Leistung
+Die Leistung wird gesamt vergeben. Der konkrete Umfang ergibt sich aus den inhaltsgleichen Dateien E1.pdf
+bzw. Los1.pdf. Beide Dateien befinden sich in der Datei Leistungsverzeichnis.aidf, die Datei E1.pdf befindet
+sich zusätzlich in den Vergabeunterlagen. Es kann nur für die vollständige Leistung ein Angebot abgegeben
+werden.
+A.6 Aufbau, Form und Inhalt des Angebotes
+Grundlage für die Erstellung des Angebotes sind ausschließlich diese Vergabeunterlagen in der aktuellsten
+über den „AnA-Web“ der e-Vergabe-Plattform bereitgestellten Version.
+Das Angebot muss die Preise, alle sonstigen geforderten Erklärungen und Nachweise enthalten. Angebote
+auf der Grundlage der Geschäftsbedingungen des Bieters werden ausgeschlossen.
+Das Angebot und sonstiger Schriftverkehr sind in deutscher Sprache abzufassen. Der Bieter erklärt sich bereit,
+im Bedarfsfall sein Angebot bei der Vergabestelle im angemessenen Umfang kostenfrei zu erläutern.
+Das Angebot ist in Dateiform einzureichen und besteht aus mehreren Dateien:
+Die auszufüllenden Dateien D.1, D.2, D.2.1, D.2.2, D.3, D.5 (*.pdf) und Leistungsverzeichnis (*.aidf) werden
+ausschließlich über die e-Vergabe-Plattform bereitgestellt. Das angebotene Format (*.pdf und *.aidf) ist zur
+Angebotsabgabe zwingend beizubehalten. Eine Ausnahme gilt für die Datei D.2 bei Bietergemeinschaften
+(Erläuterungen siehe unten). Eine Nichtverwendung oder Änderung führt zum Ausschluss.
+Ggf. weitere geforderte Unterlagen, z.B.: Konzept, Darstellung Personalkonzept nach Muster, Flyer etc. sind
+selbständig zu erstellen. Als Dateiformat sind elektronisch allgemein lesbare Formate zu verwenden (z.B. *.txt,
+*.docx, *.pdf, *.tif etc.).
+Die Angebotsabgabe muss für jedes Los getrennt erfolgen. Für jedes Los sind in diesem Vergabeverfahren
+folgende Dateien einzeln im Angebot zu übermitteln:
+•     D.1
+•     D.2
+•     D.2.1
+•     D.2.2
+•     D.3
+•     D.5
+•     Leistungsverzeichnis
+•     Konzeptdatei
+Der Bieter hat/Das bevollmächtigte Mitglied hat für sich und jedes weitere Mitglied der Bietergemeinschaft auf
+Anforderung der Vergabestelle innerhalb der gesetzten angemessenen Frist zu übermitteln:
+•     Kopie des gültigen Zertifikats für die gesetzlich geforderte Trägerzulassung (im Anwendungsbereich der
+      AZAV nebst aktueller Anlage gemäß § 5 Abs. 6)
+•     Nachweis der Eigenschaft als Inklusionsbetrieb nach § 215 SGB IX bei entsprechender Eigenerklärung in
+      der Datei D.2 (ggf. Vorlage eines Nachweises der Eigenschaft als bevorzugte Einrichtung auch für Unter-
+      auftragnehmer)
+Folgende weitere Hinweise und Besonderheiten sind bei dem Ausfüllen, Erstellen und Benennen der
+einzelnen Angebotsdateien zu beachten:
+1. D.1 (Abgabe eines Angebotes)
+      Neben der Bezeichnung des Bieters (z.B. bei juristischen Personen und Handelsgesellschaften durch den
+      Firmennamen entsprechend dem Registereintrag) ist in der Datei D.1 die natürliche Person zu benennen,
+      die das Angebot für den Bieter abgibt. Bei einer Bietergemeinschaft ist die natürliche Person zu benennen,
+      die für das bevollmächtigte Mitglied der Bietergemeinschaft handelt und die Angebotsbindung im Namen
+      und Auftrag der Bietergemeinschaft erklärt.
+      Für die anderen Mitglieder der Bietergemeinschaft und Unterauftragnehmer ist das Ausfüllen und Über-
+      mitteln der Datei D.1 nicht erforderlich und zulässig. Die Datei D.1 ist folglich dem Angebot nur einmal
+      beizufügen.
+      Die Bestätigung der rechtlichen Bindung in der Datei D.1 gilt für alle Bestandteile des Angebotes.
+
+
+Stand: 01.01.2023                              301-23-45ind-30052                                  Seite 8 von 13
+  Individuelle Maßnahmen zur Aktivierung und beruflichen Eingliederung nach § 16 I SGB II i. V. m. § 45 I S. 1 SGB III
+
+    Die Angaben zum Bieter/bevollmächtigten Mitglied der Bietergemeinschaft in der Datei D.1 müssen
+    den Angaben zur Nutzerin/zum Nutzer auf der e-Vergabe-Plattform entsprechen. Falls das Angebot
+    durch ein anderes, im Auftragsfall nicht vertragsbeteiligtes Unternehmen, das sich als Nutzerin/Nutzer auf
+    der e-Vergabe-Plattform registriert hat, über ihr/sein eigenes Benutzerkonto in Vertretung des Bieters oder
+    der Bietergemeinschaft abgegeben wird, ist A.2 zu beachten.
+    Benennung: Die Datei D.1 ist wie folgt zu benennen: D.1.pdf
+2. D.2 (Unternehmensangaben und Eigenerklärungen)
+    Bei Bietergemeinschaften ist mit der Datei D.2 wie folgt zu verfahren:
+    a) Die Datei ist vollständig am Monitor auszufüllen.
+    b) Die Datei ist auszudrucken und mit Ausnahme des bevollmächtigten Mitglieds von allen Mitgliedern
+       der Bietergemeinschaft handschriftlich zu unterschreiben und an den entsprechenden Stellen mit Fir-
+       menstempel und Datum zu versehen.
+    c) Der ausgefüllte, gestempelte und unterschriebene Ausdruck ist in ein elektronisches Dokument zu
+       überführen (z.B. durch Einscannen, digitale Fotografie, PC-Fax usw.).
+    d) Die so erstellte Datei ist als Datei D.2 mit dem Angebot zu übermitteln. Als Dateiformat sind elektro-
+       nisch allgemein lesbare Formate zu verwenden (z.B. *.tif, *.jpeg, *.pdf etc.).
+    Die Angaben zum Bieter/bevollmächtigten Mitglied der Bietergemeinschaft in der Datei D.2. müs-
+    sen den Angaben zur Nutzerin/zum Nutzer auf der e-Vergabe-Plattform entsprechen. Falls das An-
+    gebot durch ein anderes, im Auftragsfall nicht vertragsbeteiligtes Unternehmen, das sich als Nutzerin/Nut-
+    zer auf der e-Vergabe-Plattform registriert hat, über ihr/sein eigenes Benutzerkonto in Vertretung des Bie-
+    ters oder der Bietergemeinschaft abgegeben wird, ist A.2 zu beachten.
+    Benennung: Die Datei D.2 ist wie folgt zu benennen (unter Beachtung der vorgenannten Dateiformate):
+    D.2.pdf
+3. D.2.1 (Erklärung zur Einhaltung zwingender Arbeitsbedingungen und Registerabfrage)
+    Bei Bietergemeinschaften ist die Datei D.2.1 von jedem Mitglied der Bietergemeinschaft dem Angebot
+    beizufügen.
+    Benennung: Die Datei D.2.1 ist wie folgt zu benennen: Bei Einzelbietern D.2.1.pdf. Bei Bietergemein-
+    schaften ist die Bezeichnung D.2.1 stets um den Namen des jeweiligen Mitglieds der Bietergemeinschaft
+    zu ergänzen: z.B. D.2.1-Musterfirma.pdf
+4. D.2.2 (Erklärung zur Ethikklausel)
+    Bei Bietergemeinschaften ist die Datei D.2.2 von jedem Mitglied der Bietergemeinschaft dem Angebot
+    beizufügen.
+    Benennung: Die Datei D.2.2 ist wie folgt zu benennen: Bei Einzelbietern D.2.2.pdf. Bei Bietergemein-
+    schaften ist die Bezeichnung D.2.2 stets um den Namen des jeweiligen Mitglieds der Bietergemeinschaft
+    zu ergänzen: z.B. D.2.2-Musterfirma.pdf
+5. D.3 (Erklärung zu Referenzleistungen)
+    Bei Bietergemeinschaften ist die Datei D.3 nur von dem bevollmächtigten Mitglied der Bietergemeinschaft
+    einzureichen. Die Angaben sind in einer Datei D.3 für alle Mitglieder der Bietergemeinschaft und die be-
+    teiligten Unterauftragnehmer zusammenzufassen.
+    Benennung: Die Datei D.3 ist wie folgt zu benennen: D.3.pdf
+6. D.5 (Erklärung bzgl. Art. 5k der Verordnung (EU) Nr. 2022/576)
+    Bei Bietergemeinschaften ist die Datei D.5 von jedem Mitglied der Bietergemeinschaft dem Angebot bei-
+    zufügen.
+    Benennung: Die Datei D.5 ist wie folgt zu benennen: Bei Einzelbietern D.5.pdf. Bei Bietergemeinschaften
+    ist die Bezeichnung D.5 stets um den Namen des jeweiligen Mitglieds der Bietergemeinschaft zu ergän-
+    zen: z.B. D.5-Musterfirma.pdf
+7. Leistungsverzeichnis (ausfüllbare Losblätter)
+    Die Datei Leistungsverzeichnis enthält losweise die Eingabefelder für die Angebotspreise. In dieser Datei
+    sind zwingend die geforderten Angebotspreise einzutragen. Zusätzlich ist anzugeben, ob es sich um ein
+    Angebot einer Bietergemeinschaft handelt oder nicht.
+
+
+
+Stand: 01.01.2023                            301-23-45ind-30052                                  Seite 9 von 13
+  Individuelle Maßnahmen zur Aktivierung und beruflichen Eingliederung nach § 16 I SGB II i. V. m. § 45 I S. 1 SGB III
+
+    Die Datei Leistungsverzeichnis darf bei der Angebotsabgabe nur das ausgefüllte Losblatt im aidf-Dateifor-
+    mat für das jeweils bebotene Los enthalten.
+    Dazu muss das zu bebietende Losblatt zwingend aus der aktuellsten Datei Leistungsverzeichnis exportiert
+    werden (mittels der Software „AI LV-Cockpit“), auch wenn die von der Vergabestelle bereitgestellte Datei
+    nur ein Losblatt enthält.
+    Der Export ist erforderlich, da ansonsten das Angebot nicht ordnungsgemäß zugeordnet werden kann!
+    Angebote, die in der Datei Leistungsverzeichnis mehrere ausgefüllte Losblätter enthalten, werden ausge-
+    schlossen.
+    Benennung: Die Datei Leistungsverzeichnis ist wie folgt zu benennen: Leistungsverzeichnis.aidf.
+8. ggf. weitere geforderte Unterlagen, z.B.: Darstellung Personalkonzept nach Muster, Flyer, Vollmacht
+   etc.
+    Weitere geforderte Unterlagen oder sonstige Unterlagen sind als jeweils einzelne Datei dem Angebot bei-
+    zufügen. Alle Seiten dieser Unterlagen müssen die Vergabenummer, die Losnummer und den Bieterna-
+    men enthalten. Die Seiten sind innerhalb der Datei fortlaufend zu nummerieren.
+    Benennung: Die Datei bzw. die Dateien sind mit einem „sprechenden“ Namen zu versehen, der auf den
+    Dateiinhalt schließen lässt: z.B. Personalkonzept oder Flyer usw. Als Dateiformat sind elektronisch allge-
+    mein lesbare Formate zu verwenden (z.B. *.txt, *.docx, *.pdf, *.tif etc.). Dies gilt entsprechend, wenn nach
+    Angebotsabgabe auf Anforderung der Vergabestelle eine Kopie des gültigen Zertifikats für die gesetzlich
+    geforderte Trägerzulassung zu übermitteln ist.
+9. Konzeptdatei
+    Das Konzept ist als eine weitere Datei dem Angebot beizufügen und entsprechend der in der Bewertungs-
+    matrix (vgl. Datei A_Bewertungsmatrix) vorgegebenen Reihenfolge der Wertungskriterien zu gliedern, an-
+    sonsten wird es ausgeschlossen.
+    Verweise, z.B. auf andere Stellen des Angebotes, auf Anlagen, Firmenberichte etc. können nicht die an
+    dieser Stelle geforderten Ausführungen im Konzept ersetzen und werden nicht gewertet.
+    Der Umfang soll insgesamt 10 ausgedruckte DIN A4 Seiten (Schriftgrad mind. 10 pts) nicht übersteigen.
+    Eine Überschreitung führt nicht zum Ausschluss des Angebotes.
+    Alle Seiten des Konzeptes müssen die Vergabenummer, die Losnummer und den Bieternamen enthalten.
+    Die Seiten sind innerhalb der Datei fortlaufend zu nummerieren.
+    Benennung: Die Datei ist wie folgt zu benennen: Konzeptdatei. Als Dateiformat sind elektronisch allge-
+    mein lesbare Formate zu verwenden (z.B. *.txt, *.docx, *.pdf, *.tif etc.).
+Die vorgegebenen Dateibezeichnungen können zusätzliche Angaben (wie z.B. die Losnummer) enthalten.
+
+
+A.7 Bieterfragen, Fragen- und Antwortenkatalog sowie sonstige Kommunikation
+Der freie Download der Vergabeunterlagen dient nur einer ersten Ansicht. Um an dem Vergabeverfahren teil-
+nehmen zu können (z.B. um Angebote abzugeben) muss die Teilnahme beantragt werden.
+Nur wer die Teilnahme an dem Vergabeverfahren beantragt hat, wird über etwaige Änderungen der
+Vergabeunterlagen aktiv informiert und kann Bieterfragen zum Verfahren stellen bzw. die Antworten
+hierzu erhalten.
+1. Bieterfragen, Fragen- und Antwortenkatalog
+    Inhaltliche Fragen zu diesem Vergabeverfahren, deren Beantwortung sich nicht aus den Vergabeunterla-
+    gen erschließt, können längstens bis zum Ablauf der Angebotsfrist ausschließlich elektronisch über die e-
+    Vergabe-Plattform mittels des „AnA-Web“ der Vergabestelle übermittelt werden.
+    Anfragen sind über die Seite „Ausschreibung bearbeiten“ mit der Aktion „Vergabestelle kontaktieren“ des
+    „AnA-Web“ zu versenden. Dabei sind Text-Dateien in den „AnA-Web“ zu importieren. Als Dateiformat sind
+    elektronisch allgemein lesbare Formate zu verwenden (z.B. *.txt, *.docx, *.pdf, *.tif etc.). Dabei sind Name
+    und Anschrift des Unternehmens sowie die Kontaktdaten der Ansprechperson mitzuteilen.
+    Eine Übersendung der Fragen direkt an die Vergabestelle/den Auftraggeber ist nicht zulässig. Fragen, die
+    auf diesem Wege gestellt werden, werden nicht beantwortet.
+
+
+
+
+Stand: 01.01.2023                            301-23-45ind-30052                                Seite 10 von 13
+  Individuelle Maßnahmen zur Aktivierung und beruflichen Eingliederung nach § 16 I SGB II i. V. m. § 45 I S. 1 SGB III
+
+    Im Interesse der Bieter sollten auftretende Fragen unverzüglich, jedoch spätestens acht Arbeitstage vor
+    Ablauf der Angebotsfrist mitgeteilt werden, damit den Bietern ausreichend Zeit bleibt, die Antworten bei
+    der Angebotserstellung zu berücksichtigen.
+    Die Antworten der Vergabestelle werden über den „AnA-Web“ der e-Vergabe-Plattform kommuniziert.
+    Antworten, die einem Bieter wichtige Aufklärungen über die geforderte Leistung oder Grundlagen seiner
+    Preisermittlungen geben, werden in Form eines Fragen- und Antwortenkataloges zur Verfügung gestellt.
+    Weiterhin werden im Fragen- und Antwortenkatalog Änderungen, Ergänzungen sowie Hinweise der
+    Vergabestelle zum Vergabeverfahren bekannt gegeben. Wenn die Vergabeunterlagen geändert oder er-
+    gänzt werden müssen, wird eine neue Version der Vergabeunterlagen einschließlich des Fragen- und
+    Antwortenkataloges auf der e-Vergabe-Plattform www.evergabe-online.de veröffentlicht. Unternehmen,
+    die noch nicht am Vergabeverfahren angemeldet sind, haben sich dort über mögliche Änderungen oder
+    Ergänzungen der Vergabeunterlagen oder zusätzliche Informationen eigenständig zu informieren.
+    Der Fragen- und Antwortenkatalog wird zum Bestandteil der Vergabeunterlagen.
+2. Sonstige Kommunikation
+    Die sonstige Kommunikation (z.B. Anfragen zur Aufklärung über das Angebot oder die Bietereignung,
+    Kalkulationsanforderungen) zwischen Vergabestelle/Auftraggeber und Bieter findet bis auf die Information
+    nach § 134 GWB, die zusätzlich per E-Mail versendet wird, bis zum Ablauf der Bindefrist ausschließlich
+    elektronisch über die e-Vergabe-Plattform statt. Die Anfragen der Vergabestelle werden dem Bieter über
+    die Vergabeplattform mittels des „AnA-Web“ zugestellt. Die Antwort hat der Bieter ausschließlich über die
+    Seite „Ausschreibung bearbeiten“ mit der Aktion „Vergabestelle kontaktieren“ des „AnA-Web“ zu übermit-
+    teln. Dabei sind Dateien in den „AnA-Web“ zu importieren. Als Dateiformat sind elektronisch allgemein
+    lesbare Formate zu verwenden (z.B. *.txt, *.docx, *.pdf, *.tif etc.).
+    Fragen zum „AnA-Web“ und andere technische Fragen sind an die e-Vergabe-Plattform des Bundes, Te-
+    lefon: 0228 – 99 610 1234, E-Mail: ticket@bescha.bund.de zu richten.
+
+
+A.8 Zuschlagserteilung/Vertragsabschluss
+Der Zuschlag (auch im Hinblick auf den Abschluss eines Rahmenvertrages) wird durch die Vergabestelle in
+Vertretung des Bedarfsträgers elektronisch über den „AnA-Web“ in Textform gemäß § 126b des Bürgerlichen
+Gesetzbuches auf der Grundlage der Vergabeunterlagen in der aktuellsten Version erteilt. Der Bieter ist bis
+zum Ablauf der Bindefrist an sein Angebot gebunden. Wird bis zum Ablauf der Frist kein Zuschlag erteilt, gilt
+das Angebot als nicht berücksichtigt. Wird der Zuschlag rechtzeitig und ohne Änderung erteilt, ist der Vertrag
+mit Zuschlagserteilung zu den Vorgaben dieses Verfahrens auf der Grundlage des Angebotes rechtswirksam
+zustande gekommen. Die Vergabestelle informiert die nicht berücksichtigten Bieter unverzüglich über die Zu-
+schlagserteilung.
+
+
+A.9 Schutzrechte
+Im Angebot ist anzugeben, ob für den Gegenstand des Angebotes gewerbliche Schutzrechte bestehen oder
+vom Bieter oder anderen beantragt sind.
+
+
+A.10 Hinweise zur Verarbeitung personenbezogener Daten im Vergabeverfahren
+Auf Grundlage der Datenschutz-Grundverordnung (DSGVO) erhalten Sie folgende Datenschutzhinweise:
+1. Zweck und Rechtsgrundlage für die Verarbeitung der Daten
+    Eine Beteiligung an Vergabeverfahren erfolgt durch die Einreichung von Angeboten und bedarf der Mit-
+    wirkung der beteiligten Unternehmen und Personen, insbesondere durch die Eintragung der unter Ziff. 2
+    aufgeführten personenbezogenen Angaben in die Vordruckdateien zur Angebotsabgabe.
+    Die Vergabestelle (zuständiges Regionales Einkaufszentrum) der BA nutzt die Angaben zur Kommunika-
+    tion mit den Bietern und zur Prüfung der Bietereignung sowie des Nichtvorliegens von Ausschlussgründen.
+    Sofern Sie geforderte Daten nicht bereitstellen, kann dies zur Nichtberücksichtigung des Angebotes füh-
+    ren.
+    Die von Ihnen im Rahmen der Beteiligung am Vergabeverfahren an die Vergabestelle übermittelten per-
+    sonenbezogenen Daten werden ausschließlich in Zusammenhang mit diesem Verfahren auf Grundlage
+    des Artikels 6 Abs. 1 Buchst. b, c und f DSGVO i.V.m. §§ 7, 55 der Bundeshaushaltsordnung (BHO) und
+
+
+
+Stand: 01.01.2023                            301-23-45ind-30052                                Seite 11 von 13
+ Individuelle Maßnahmen zur Aktivierung und beruflichen Eingliederung nach § 16 I SGB II i. V. m. § 45 I S. 1 SGB III
+
+   den vergaberechtlichen Vorschriften im Teil 4 des GWB und der VgV bzw. der UVgO im erforderlichen
+   Umfang verarbeitet.
+2. Art der verarbeiteten Daten
+   •   Vor- und Nachname der Person, die das Angebot für den Bieter bzw. die Bietergemeinschaft abgibt,
+   •   Kontaktdaten von Ansprechpartnerinnen und Ansprechpartnern der Bieter, der Mitglieder einer Bie-
+       tergemeinschaft, der Unterauftragnehmer und in den Angaben zum Provider (Vorname, Name, ge-
+       schäftliche Anschrift, Telefonnummer, Faxnummer und E-Mail-Adresse),
+   •   Angaben zur Prüfung des Vorliegens von Ausschlussgründen (z.B. Name, Position im Unternehmen
+       im Zusammenhang mit einer strafrechtlichen Verurteilung, schwerwiegenden Verfehlungen oder bei
+       Insolvenzmitteilungen) sowie zur Bewertung der Eignung (insbesondere Name und Telefonnummer
+       einer Kontaktperson des Referenzgebers) und
+   •   Geburtsname, Familienname (wenn Bieter vom Geburtsnamen abweichenden Namen trägt), Vor-
+       name bzw. Vornamen, Geburtsdatum, Geburtsort, Staatsangehörigkeit, Geburtsname der Mutter zur
+       Anforderung einer Auskunft aus dem Gewerbezentralregister nach § 150a der Gewerbeordnung
+       und/oder aus dem Wettbewerbsregister nach § 6 des Wettbewerbsregistergesetzes, wenn es sich bei
+       dem Bieter/Mitglied der Bietergemeinschaft um eine natürliche Person handelt. Hierzu ist die Verga-
+       bestelle gemäß § 124 Abs. 2 GWB i.V.m. § 21 Abs. 1 des Arbeitnehmer-Entsendegesetzes und § 19
+       Abs. 4 des Gesetzes zur Regelung eines allgemeinen Mindestlohns vor Zuschlagserteilung verpflich-
+       tet.
+3. Aufbewahrung und Löschung der Daten
+   Teilnahmeanträge, Angebote, ihre Anlagen und die dazugehörige Dokumentation des Vergabeverfahrens
+   (einschließlich der im Zusammenhang mit dem Verfahren gestellten Anfragen/übermittelten Unterlagen
+   und der darin enthaltenen personenbezogenen Daten) werden bis zum Ende der Laufzeit eines Vertrages
+   oder Rahmenvereinbarung aufbewahrt, mindestens jedoch für drei Jahre ab dem Tag des Zuschlags.
+   Abweichende Aufbewahrungszeiten in Rechts- und Verwaltungsvorschriften (insbesondere nach Akten-
+   ordnung) bleiben unberührt. Anschließend werden die Dokumente vernichtet bzw. gelöscht.
+4. Datenempfänger
+   Die BA bedient sich ggf. externer Dienstleister und wird diesen zur Erfüllung ihrer Tätigkeiten, falls erfor-
+   derlich, auch personenbezogene Daten zugänglich machen. Externe Dienstleister werden eingesetzt:
+   •   zum Betrieb der elektronischen Vergabeplattform (Beschaffungsamt des Bundesministeriums des In-
+       nern),
+   •   zur Fehleranalyse und -beseitigung in der Vergabesoftware (Administration Intelligence AG) und
+   •   für die rechtliche Beratung und als Verfahrensbevollmächtigte, insbesondere zur Unterstützung bei
+       etwaigen Rügen, Nachprüfungs- und Beschwerdeverfahren.
+   Die Dienstleister dürfen die personenbezogenen Daten ausschließlich im Auftrag der BA und nicht zu
+   eigenen Zwecken verarbeiten und müssen die Daten vertraulich behandeln.
+   Außerdem erfolgt die Weitergabe von personenbezogenen Daten:
+   •   bei der Anforderung einer Auskunft aus dem Gewerbezentralregister bzw. Wettbewerbsregister,
+   •   im Rahmen der zentralen Beschaffungstätigkeit der Bundesagentur für Arbeit für andere öffentliche
+       Aufraggeber (insbesondere Jobcenter und Bundesamt für Migration und Flüchtlinge) und
+   •   zum Nachweis der ordnungsgemäßen Durchführung des Vergabeverfahrens ggü. dem Bundesrech-
+       nungshof oder anderen prüfberechtigten Dritten (z.B. Zuwendungsgeber).
+   Diese Stellen dürfen die personenbezogenen Daten ausschließlich zu den genannten Zwecken verwen-
+   den und müssen die Daten vertraulich behandeln.
+   Informationen, mit denen eine natürliche Person direkt oder indirekt – insbesondere durch die Verwendung
+   ihres Namens in der Firmenbezeichnung – identifiziert werden kann, erhalten auch die nicht berücksich-
+   tigten Bieter in einem Vergabeverfahren.
+   •   EU-weites Vergabeverfahren
+       Vor dem Vertragsschluss werden die Bieter, die nicht berücksichtigt werden sollen, in EU-weiten
+       Vergabeverfahren gemäß § 134 Abs. 1 GWB über den Namen des Unternehmens, dessen Angebot
+       angenommen werden soll, informiert.
+
+
+Stand: 01.01.2023                           301-23-45ind-30052                                Seite 12 von 13
+  Individuelle Maßnahmen zur Aktivierung und beruflichen Eingliederung nach § 16 I SGB II i. V. m. § 45 I S. 1 SGB III
+
+        Nach Vertragsschluss werden der Name und die Kontaktdaten des Auftragnehmers im Supplement
+        zum Amtsblatt der Europäischen Union (TED) veröffentlicht.
+    •   Nationales Vergabeverfahren
+        Nach dem Abschluss eines nationalen Vergabeverfahrens werden die nichtberücksichtigten Bieter
+        gemäß § 46 UVgO auf Verlangen über den Namen des erfolgreichen Bieters informiert.
+        Bei jedem aufgrund einer Beschränkten Ausschreibung ohne Teilnahmewettbewerb oder einer Ver-
+        handlungsvergabe ohne Teilnahmewettbewerb vergebenen Auftrag ab einem Auftragswert von
+        25.000 Euro ohne Umsatzsteuer informiert die Vergabestelle auf dem Internetportal service.bund.de
+        über den Namen des beauftragten Unternehmens; soweit es sich um eine natürliche Person handelt,
+        ist deren Einwilligung einzuholen oder deren Name zu anonymisieren.
+5. Betroffenenrechte
+    •   Auskunft über die Verarbeitung (Artikel 15 DSGVO)
+    •   Berichtigung falscher Daten (Artikel 16 DSGVO)
+    •   Löschung nicht mehr benötigter Daten (Artikel 17 DSGVO)
+    •   Einschränkung der Verarbeitung (Artikel 18 DSGVO)
+    Jede betroffene Person hat das Recht, aus Gründen, die sich aus ihrer besonderen Situation ergeben,
+    jederzeit gegen die Verarbeitung ihrer personenbezogenen Daten, die auf Grundlage von Artikel 6 Abs. 1
+    Buchst. f DSGVO erfolgt, Widerspruch einzulegen (Artikel 21 Abs. 1 DSGVO).
+6. Betroffene Personen haben die Möglichkeit, sich an den Bundesbeauftragten für den Datenschutz und
+   die Informationsfreiheit (Graurheindorferstraße 153, 53117 Bonn) zu wenden, sofern sie der Meinung
+   sind, dass die Verarbeitung der sie betreffenden Daten gegen die DSGVO verstößt.
+7. Verantwortlicher i.S.d. DSGVO für die Datenverarbeitung ist die Bundesagentur für Arbeit, vertreten
+   durch den Vorstand, Regensburger Straße 104, 90478 Nürnberg.
+8. Den Datenschutzbeauftragten der Bundesagentur für Arbeit erreichen Sie unter der Anschrift:
+    •   Bundesagentur für Arbeit
+        Stabsstelle Datenschutz
+        Regensburger Straße 104, 90478 Nürnberg
+    •   oder unter folgender E-Mail-Adresse: Zentrale.Datenschutz@arbeitsagentur.de
+    •   oder über das unter www.arbeitsagentur.de angebotene Kontaktformular. Die Kommunikation über
+        das Kontaktformular erfolgt über eine gesicherte Verbindung.
+
+
+A.11 Kenntlichmachung der Fabrikations-, Betriebs-, Geschäftsgeheimnisse in den Angebotsunterla-
+     gen
+Nach § 165 GWB haben die Verfahrensbeteiligten u. U. Anspruch auf Akteneinsicht bei der Vergabekammer
+des Bundes und können sich ggf. Ausfertigungen, Auszüge oder Abschriften erteilen lassen. Die Vergabe-
+kammer hat die Einsicht in die Unterlagen zu versagen, soweit dies aus wichtigen Gründen, insbesondere des
+Geheimschutzes oder zur Wahrung von Fabrikations-, Betriebs- oder Geschäftsgeheimnissen geboten ist.
+Jeder Beteiligte hat mit der Übersendung seiner Akten oder Stellungnahmen auf die Wahrung der Fabrikati-
+ons-, Betriebs- oder Geschäftsgeheimnisse hinzuweisen und diese in den Unterlagen entsprechend deutlich
+kenntlich zu machen.
+Fehlt eine deutliche Kenntlichmachung, ist von der Zustimmung des Bieters zur Einsichtnahme auszugehen.
+
+
+A.12 Nachprüfung
+Ein Antrag auf Nachprüfung nach §§ 160 ff. GWB ist schriftlich zu stellen und zu richten an das
+
+                                                Bundeskartellamt
+                                           Vergabekammern des Bundes
+                                               Villemombler Str. 76
+                                                    53123 Bonn.
+
+
+
+Stand: 01.01.2023                            301-23-45ind-30052                                Seite 13 von 13
+
