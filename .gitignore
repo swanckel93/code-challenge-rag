@@ -176,4 +176,6 @@ cython_debug/
 #wsl ssh keys
 
 \#*
+# do not include input/output files for testing
 tests/results/*
+tests/test_data/*
