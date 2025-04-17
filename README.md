@@ -38,6 +38,7 @@ Create a `.env` file in the **root directory** of the project and add the follow
 ```env
 OPENAI_API_KEY=your_openai_api_key
 POSTGRES_URL=postgresql+psycopg://postgres@pgvector:5432/pdf_rag_vectors
+SOURCE_DOCS_DIR= ./source_docs
 ```
 
 ### 3. Start the Backend, Frontend and PSQL
